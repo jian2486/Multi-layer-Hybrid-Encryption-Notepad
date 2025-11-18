@@ -22,7 +22,6 @@ A secure text storage application with encryption and customizable UI for Window
 
 - Data is encrypted using multiple AES modes with a hardcoded key for demonstration
 - Data is stored in the `data.store` file in the same directory as the application
-- The application uses administrator privileges to ensure proper operation on Windows systems
 - For maximum security, keep the `data.store` file in a secure location
 
 ## Customization

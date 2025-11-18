@@ -17,25 +17,6 @@ A secure text storage application with encryption and customizable UI for Window
   - Optional blur effect
 - **Custom Window Decorations**: Custom title bar with minimize, maximize, and close buttons
 - **Resizable Window**: Drag edges to resize the window
-- **Configuration Persistence**: UI settings are saved and restored between sessions
-
-## Installation
-
-1. Download the latest release from the [Releases](https://example.com) page
-2. Extract the archive to a folder of your choice
-3. Run `secure_data_manager.exe`
-
-**Note**: This application requires administrator privileges to run properly on Windows systems.
-
-## Usage
-
-1. Launch the application (may require administrator privileges)
-2. Type or paste your sensitive information in the text area
-3. The application automatically saves your data to `data.store` every 30 seconds
-4. Use the "Theme" menu to customize the appearance
-5. Close the application using the × button in the custom title bar
-
-Data is automatically loaded from `data.store` on startup.
 
 ## Security Notes
 

@@ -2,6 +2,8 @@
 
 A secure text storage application with encryption and customizable UI for Windows.
 <img width="794" height="401" alt="image" src="https://github.com/user-attachments/assets/bedccfd8-c102-44e3-8350-0e3a47722e44" />
+There is no need to pay attention to the Chinese settings.Just input directly.
+Never close the program when decoding fails. Instead, terminate the program directly. Otherwise, the program will automatically save and overwrite the original content, and any possible information will be lost.😁
 
 ## Features
 

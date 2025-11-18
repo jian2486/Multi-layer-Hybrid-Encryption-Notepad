@@ -7,7 +7,7 @@ A secure text storage application with encryption and customizable UI for Window
 
 ## Features
 
-- **Strong Encryption**: Uses multiple AES encryption modes with PBKDF2 key derivation
+- **Strong Encryption**: Uses multiple AES encryption modes
 - **Data Obfuscation**: Custom encoding to make stored data less recognizable
 - **Auto-save**: Automatically saves your data every 30 seconds
 - **Customizable UI**: 

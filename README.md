@@ -41,7 +41,6 @@ All settings are saved and restored automatically.
 
 - `secure_data_manager.exe` - Main application executable
 - `data.store` - Encrypted data storage file (created after first save)
-- `README.md` - This file
 
 ## Source Code
 

@@ -9,7 +9,7 @@ A secure text storage application with encryption and customizable UI for Window
 - **Data Obfuscation**: Custom encoding to make stored data less recognizable
 - **Auto-save**: Automatically saves your data every 30 seconds
 - **Customizable UI**: 
-  - Adjustable colors for background, text, menus, title bar, and scrollbars
+  - Adjustable colors for background, text, menus and scrollbars
   - Multiple scrollbar styles (thin, wide, gray)
   - Multiple cursor styles (line, block, ibeam)
   - Transparency settings

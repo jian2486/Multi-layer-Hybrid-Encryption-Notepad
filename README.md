@@ -1,7 +1,8 @@
 # Secure Data Manager
 
 A secure text storage application with encryption and customizable UI for Windows.
-<img width="794" height="401" alt="image" src="https://github.com/user-attachments/assets/bedccfd8-c102-44e3-8350-0e3a47722e44" />
+<img width="800" height="630" alt="image" src="https://github.com/user-attachments/assets/54c3a112-42ac-486a-ab84-7381485420fb" />
+
 
 ## Features
 
